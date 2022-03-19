@@ -20,7 +20,7 @@ in our own warehouse and in the supplier's warehouse.
 ### Mat model of problem
 
 
-<img src="./images/matmodel.png" width="500">
+<img src="./images/matmodel.PNG" width="500">
 
 
 # Results
